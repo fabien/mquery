@@ -1,5 +1,5 @@
 {
-  "name": "mquery",
+  "name": "@atelierfabien/mquery",
   "version": "3.2.0",
   "description": "Expressive query building for MongoDB",
   "main": "lib/mquery.js",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/aheckmann/mquery.git"
+    "url": "git://github.com/fabien/mquery.git"
   },
   "engines": {
     "node": ">=4.0.0"
@@ -29,7 +29,7 @@
     "mongodb": "3.1.1"
   },
   "bugs": {
-    "url": "https://github.com/aheckmann/mquery/issues/new"
+    "url": "https://github.com/aheckmann/fabien/issues/new"
   },
   "author": "Aaron Heckmann <aaron.heckmann+github@gmail.com>",
   "license": "MIT",
